@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">装维测试</string>
+    <string name="main_button2">E网通</string>
+    <string name="main_button3">下载测速</string>
+    <string name="main_button4">TFP客户端</string>
+    <string name="main_button1">网络层测试</string>
+</resources>
